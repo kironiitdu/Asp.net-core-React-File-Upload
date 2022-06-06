@@ -96,5 +96,5 @@ export const FileUpload = () => {
 
 <img src="https://i.stack.imgur.com/2eLCr.gif" alt="user avatar" width="650" height="450" class="bar-sm bar-md d-block">  
 
-I hope it would help to understand how binary serach works. Thanks
+I hope it would help to upload files using React and Asp.net core. Thanks
 
