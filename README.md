@@ -93,7 +93,7 @@ export const FileUpload = () => {
  ## Output
 
 
-<img src="https://i.stack.imgur.com/2eLCr.gif" alt="user avatar" width="650" height="450" class="bar-sm bar-md d-block">  
+<img src="https://i.stack.imgur.com/2eLCr.gif" alt="user avatar" width="750" height="450" class="bar-sm bar-md d-block">  
 
 I hope it would help to upload files using React and Asp.net core. Thanks
 
