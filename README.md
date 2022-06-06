@@ -1,7 +1,6 @@
-# Asp.net-core-React-File-Upload
-How To Handle Files Using Asp.net Core Back-End Along With React Front-End
 
-# File Upload in React With WebAPI
+
+# Asp.net-core-React-File-Upload
 
  - React File Upload  
  - Post Image/File From React Form
