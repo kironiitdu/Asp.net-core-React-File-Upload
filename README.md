@@ -2,7 +2,7 @@
 How To Handle Files Using Asp.net Core Back-End Along With React Front-End
 
 # File Upload in React With WebAPI
-Content Discussed :
+
  - React File Upload  
  - Post Image/File From React Form
  - Upload / Save Image in Web API
