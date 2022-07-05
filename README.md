@@ -88,7 +88,16 @@ export const FileUpload = () => {
     }
 
 ```
+
+
+
 ## Db Context For Asp.net core Database First
+
+Let's imagine your database has below entity. 
+
+<img src="https://i.stack.imgur.com/bWuyn.png" alt="user avatar" width="750" height="450" class="bar-sm bar-md d-block">  
+
+In this scenario your ApplicationDbContext should construct as below
 
 ```
  public class ApplicationDbContext : DbContext
