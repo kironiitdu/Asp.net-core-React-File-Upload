@@ -88,8 +88,27 @@ export const FileUpload = () => {
     }
 
 ```
+## Db Context For Asp.net core Database First
 
- 
+```
+ public class ApplicationDbContext : DbContext
+    {
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        {
+        }
+        public DbSet<Categories> Categories  { get; set; }
+       
+
+       
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Categories>().ToTable("Categories");
+        }
+    }
+    
+  ```
+
  ## Output
 
 
